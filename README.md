@@ -1,6 +1,5 @@
 
 I'm Mingcheng.
-Bachelor, graduate in 2021.
 
 Linux(Centos), C, C++, Shell.
 
