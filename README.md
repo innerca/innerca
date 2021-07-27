@@ -1,9 +1,7 @@
 
-I'm Mingcheng.
-
-Linux(Centos), C, C++, Shell.
+### Mingcheng
 
 Game Server-side Engineer.  
-Working at Archosaur Games in Beijing.
+current at [Archosaur Games](https://www.zulong.com/#/main).
 
 Contact Me:      mingchxing@qq.com
