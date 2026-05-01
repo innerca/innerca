@@ -1,7 +1,7 @@
 
 ### Mingcheng
 
-current C++ Game serverside engineer at [Shengqu Games](https://www.sdo.com/);
+previous C++ Game serverside engineer at [Shengqu Games](https://www.sdo.com/);
 
 previous C++ Game serverside engineer at Shilingyu Games(Startup);
 
